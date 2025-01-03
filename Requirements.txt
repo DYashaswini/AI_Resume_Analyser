@@ -1,0 +1,7 @@
+streamlit
+spacy
+pymysql
+PyPDF2
+pandas
+scikit-learn
+transformers
